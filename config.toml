@@ -1,4 +1,4 @@
-baseURL = "https://luotto.ninja/"
+baseURL = ""
 languageCode = "fi"
 title = "Luotto Ninja"
 theme = "ananke"
