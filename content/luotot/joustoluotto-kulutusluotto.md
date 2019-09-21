@@ -4,7 +4,7 @@
 title: "Jousto- ja Kulutusluotot"
 date: 2019-09-21T14:13:36+03:00
 draft: false
-
+featured_image: '/images/7.jpg'
 ---
 <head>
   <title>Joustoluotot ja kulutusluotot - Luotto Ninja</title>
