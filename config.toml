@@ -3,8 +3,11 @@ languageCode = "fi"
 title = "Luotto Ninja"
 theme = "ananke"
 pluralizelisttitles = false
+summaryLength = 15
+show_reading_time = true
 
-logo = "/images/luotto_ninja_logo.png"
+
+logo = "images/luotto_ninja_logo.png"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fi"
@@ -19,7 +22,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/luotto_ninja_logo.png"
+  favicon = "images/luotto_ninja_logo.png"
   description = "The last theme you'll ever need. Maybe."
   facebook = "#"
   twitter = "#"

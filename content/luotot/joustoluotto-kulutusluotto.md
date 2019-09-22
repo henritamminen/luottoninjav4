@@ -2,7 +2,8 @@
 title: "Jousto- ja Kulutusluotot"
 date: 2019-09-21T14:13:36+03:00
 draft: false
-featured_image: '/images/7.jpg'
+featured_image: 'images/7.jpg'
+metaDescription: "Jousto- ja kulutusluotot nopeasti sivultamme!"
 ---
 
 
@@ -12,7 +13,7 @@ Erilaiset luotot tuovat helpotusta ja joustoa kuluttajan taloudelliseen tilantee
 Luotto voi olla hyvä vaihtoehto silloin, kun tarvitset rahoitusta jotain äkillistä menoa varten tai jos olet lähdössä lomamatkalle ja haluat varmistaa pärjäämisesi loman aikana. Luotto voi auttaa myös rahallisesti tiukan paikan yli. Luottoa voidaan hakea yleensä netin kautta ja pankki tai rahoitusyhtiö tekee päätöksen luoton myöntämisestä. Luottoa pidetään yleisesti turvallisena tapana hankkia rahoitusta ja moni valitseekin luoton juuri omasta pankistaan. Luoton voi halutessaan maksaa kokonaisuudessaan pois tai sitä voidaan käyttää vähitellen.
 #	Mihin tarkoitukseen luottoa otetaan?
 Luoton hakemiselle ei ole olemassa mitään ehdotonta rahoitusyhtiön vaatimaa syytä, kuten esimerkiksi auton osto, sillä sitä voi hakea erilaisiin tilanteisiin. Tällaisia tilanteita voivat olla esimerkiksi lomamatka, auton hankkiminen tai arjen menoissa joustaminen. Pankit voivat siis myöntää luottoa ilman sen erityisempää syytä. Luotto tuo helpostusta esimerkiksi silloin, kun tilipäivä ei ole vielä koittanut, mutta päivittäisiä ostoja on silti tehtävä. Luottoa voi maksaa takaisin vaikka tilipäivän koittaessa.
-#	Erilaisia luottovaihtoehtoja
+#	Erilaisia vaihtoehtoja luottoihin
 Luottoja on olemassa erilaisia. Oikea vaihtoehto valitaan oman tarpeen ja elämäntilanteen mukaan. Jos katsot pankkien tarjoamia palveluja, huomaat siellä erinimisiä luottoja. Näissä on eroa mm. korkojen ja takaisinmaksuaikojen suhteen. Kaikkiin luottoihin liittyy korkoja, mutta katsotaanpa luottojen muita eroja.
 Kulutusluotto on yksi yleisimmin haetuista luottomuodoista. Siitä voidaan käyttää myös nimitystä käyttöluotto. Sitä haetaan monesti jotain kertaostosta, kuten uutta autoa hankittaessa tai esimerkiksi remonttia varten. Kulutusluottoa voidaan hakea niinkutsuttuna remontti- tai autolainana, jolloin rahojen käyttökohde on ennalta suunniteltu. Kulutusluoton summa maksetaan kerralla hakijan pankkitilille. Takaisin sitä maksetaan usein pienissä erissä, esimerkiksi viiden vuoden ajan.
 Joustoluotto eroaa kulutusluotosta siinä mielessä, että hakija voi nostaa rahaa sen verran kuin tarvitsee. Koko summaa ei siis tarvitse ottaa kerralla. Tämä tuo nimensämukaisesti joustoa takaisinmaksuun.
