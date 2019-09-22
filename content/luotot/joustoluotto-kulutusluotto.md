@@ -3,7 +3,8 @@ title: "Jousto- ja Kulutusluotot"
 date: 2019-09-21T14:13:36+03:00
 draft: false
 featured_image: 'images/7.jpg'
-metaDescription: "Jousto- ja kulutusluotot nopeasti sivultamme!"
+Description: "Jousto- ja kulutusluotot nopeasti sivultamme!"
+
 ---
 
 

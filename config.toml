@@ -23,7 +23,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "images/luotto_ninja_logo.png"
-  description = "The last theme you'll ever need. Maybe."
+  description = "Viimeinen luotto-sivu, jota tarvitset. Ehkä."
   facebook = "#"
   twitter = "#"
   instagram = "#"
