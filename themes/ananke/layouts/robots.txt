@@ -1,3 +1,4 @@
 #robottiteksti Luotto Ninjalle
 User-agent: *
+Allow: /
 Sitemap: https://luotto.ninja/sitemap.xml
