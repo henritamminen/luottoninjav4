@@ -11,6 +11,16 @@
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
         <meta name='dmca-site-verification' content='ZmYvVE1WVHV0R1QxazM0bFU1cC9Vdz090' />
         <meta name="google-site-verification" content="Qp3KhdsnW0xXvTjjUwvCSsdCG9fKuMtRUYo3-udBO-w" />
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139189150-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139189150-2');
+</script>
+
         <link rel="canonical" href="{{ .Permalink }}" />
 
         {{ if .IsPage }} <meta name="description" content="{{ .Description | default (substr .Summary 0 160) }}" /> {{ else }}
